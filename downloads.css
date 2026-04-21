@@ -6,4 +6,7 @@ body {
 
 a {
     background-color: #FFFF00;
+    text-decoration: none;
+    display: block;
+    margin: 2px auto;
 }
