@@ -6,7 +6,11 @@ body {
 
 a {
     background-color: #FFFF00;
-    text-decoration: none;
-    display: block;
+    width: 200px;
     margin: 2px auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    -webkit-text-fill-color: #1A4C99;
+    border-radius: 10px;
 }
